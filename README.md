@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skyaxis7up
 - 👀 I’m interested in Si photonics
-- 🌱 I’m currently learning Digital Signal Processing
+- 🌱 I’m currently learning Photonics Integrated Circuits and Digital Signal Processing
 - 💞️ I’m looking to collaborate on Si Photonic Transceiver
 - 📫 How to reach me ...
 
